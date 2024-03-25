@@ -1,11 +1,11 @@
 Dependencies
 
-Java 17
-sprint boot 3.2.4
-spring data jpa 
-hibernate
-Spring rabbit 3.0.17
-mysql connector 8.0.27
+Java 17,
+sprint boot 3.2.4,
+spring data jpa, 
+hibernate,
+Spring rabbit 3.0.17,
+mysql connector 8.0.27,
 lambok 1.18.32
 
 
